@@ -1,9 +1,9 @@
 # imali
 
 A new Flutter application.
-
+Imali is the brother app to Terrera
 ## Getting Started
-Stewart is Awsome!!
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
